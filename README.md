@@ -1,2 +1,4 @@
 # arduino-avr-lib-c
-Arduino Samples Using avr-libc
+Arduino Uno Samples using AVR Lib
+  - avr-gcc for compiling and linking
+  - avrdude for flashing
